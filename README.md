@@ -123,7 +123,7 @@ Me chamo Marco Antônio, tenho 20 anos e natural de Santa Catarina. Conclui meu 
 <img
     align="left"
     alt="Github Stats"
-    height="150"
+    height="200"
     style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcones-san&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
