@@ -122,7 +122,6 @@ Me chamo Marco Antônio, tenho 20 anos e natural de Santa Catarina. Conclui meu 
 />
 
 <img
-    align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
