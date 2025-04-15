@@ -128,4 +128,8 @@ Me chamo Marco Antônio, tenho 20 anos e natural de Santa Catarina. Conclui meu 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcones-san&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
-![snake animation](https://github.com/Marcones-san/Marcones-san/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcones-san/Marcones-san/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcones-san/Marcones-san/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marcones-san/Marcones-san/output/github-contribution-grid-snake.svg">
+</picture>
